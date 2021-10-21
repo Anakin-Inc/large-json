@@ -1,0 +1,16 @@
+{
+  "name": "write-large-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "tsc --build",
+    "prepublish": "tsc --build"
+  },
+  "author": "Vikas",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.11.1"
+  }
+}
